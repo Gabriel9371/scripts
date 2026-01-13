@@ -54,7 +54,7 @@ local function get_mem()
 
 end
 
-print("USER: " .. get_user())
-print("UPTIME: " .. get_system_uptime())
-print("CPU: ".. get_cpu())
-print("RAM: ".. get_mem())
+print(
+   "CPU " .. get_cpu() ..
+   " | RAM ".. get_mem()
+)
