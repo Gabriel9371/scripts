@@ -30,8 +30,9 @@ interval = 1
 
 ```
 
+
 # Dependencias
-o script utiliza ferramentas padrão do Linux como:<br>
+o script utiliza ferramentas padrão do Linux:<br>
 `top`<br>
 `free`<br>
 `awk`<br>
